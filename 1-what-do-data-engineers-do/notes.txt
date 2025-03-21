@@ -1,0 +1,7 @@
+1 - Entrevista com as áreas solicitantes;
+2 - Avaliação de investimento para a área de dados - budget que será investido;
+3 - Avaliação de ferramentas e tecnologias a serem utilizadas;
+4 - Configuração do ambiente;
+5 - Desenvolvimento dos pipelines de dados;
+6 - Validação com as áreas solicitantes;
+7 - Entrega do projeto e documentação.
